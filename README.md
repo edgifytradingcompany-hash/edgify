@@ -1,2 +1,2 @@
-# nginx
-edgify
+# Edgify Project
+
